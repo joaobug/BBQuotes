@@ -11,6 +11,7 @@
 		2FD58A522B6D5810002BE704 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD58A512B6D5810002BE704 /* ContentView.swift */; };
 		2FD58A542B6D5811002BE704 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FD58A532B6D5811002BE704 /* Assets.xcassets */; };
 		2FD58A572B6D5811002BE704 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FD58A562B6D5811002BE704 /* Preview Assets.xcassets */; };
+		2FD58A5E2B6D5893002BE704 /* samplecharacter.json in Resources */ = {isa = PBXBuildFile; fileRef = 2FD58A5D2B6D5893002BE704 /* samplecharacter.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2FD58A512B6D5810002BE704 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2FD58A532B6D5811002BE704 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FD58A562B6D5811002BE704 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2FD58A5D2B6D5893002BE704 /* samplecharacter.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = samplecharacter.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2FD58A4F2B6D5810002BE704 /* BBQuotesApp.swift */,
 				2FD58A512B6D5810002BE704 /* ContentView.swift */,
+				2FD58A5D2B6D5893002BE704 /* samplecharacter.json */,
 				2FD58A532B6D5811002BE704 /* Assets.xcassets */,
 				2FD58A552B6D5811002BE704 /* Preview Content */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FD58A572B6D5811002BE704 /* Preview Assets.xcassets in Resources */,
+				2FD58A5E2B6D5893002BE704 /* samplecharacter.json in Resources */,
 				2FD58A542B6D5811002BE704 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
